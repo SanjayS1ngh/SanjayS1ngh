@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SanjayS1ngh/SanjayS1ngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I'm Sanjay 👋
+
+B.Tech CSE graduate (2026), building full-stack apps with the MERN stack.
+I'm looking for a software developer role where I can keep learning and shipping.
+
+### Things I've built
+- **Society Summariser**: turns long WhatsApp group chats into one-page summaries, with every item linked to its original message. [Live](#) · [Code](#)
+- **ManageX**: CRM dashboard with JWT login and Redis caching. [Live](#) · [Code](#)
+- **InkFlow**: blogging platform with private images on AWS S3. [Live](#) · [Code](#)
+- **Product Safety Analyser**: reads ingredient photos using AWS Rekognition. [Live](#) · [Code](#)
+
+### Tech
+JavaScript · C++ · React · Node.js · Express · MongoDB · SQL · AWS · Git
+
+### Currently
+Practicing DSA daily and making my first open-source contributions.
+
+📫 samantsanjay100@gmail.com · [https://www.linkedin.com/in/sanjay-singh-88314b25b/](#) · [https://leetcode.com/u/madmax_xx/](#)
