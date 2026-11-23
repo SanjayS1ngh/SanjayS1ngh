@@ -19,8 +19,8 @@ I'm looking for a software developer role where I can keep learning and shipping
 
 ### Things I've built
 - **Society Summariser**: turns long WhatsApp group chats into one-page summaries, with every item linked to its original message. [Live](#) · [Code](#)
-- **ManageX**: CRM dashboard with JWT login and Redis caching. [Live](#) · [Code](#)
-- **InkFlow**: blogging platform with private images on AWS S3. [Live](#) · [Code](#)
+- **ManageX**: CRM dashboard with JWT login and Redis caching. [Live](https://crmfrontendd.netlify.app/) · [Code](https://github.com/SanjayS1ngh/CRMFRONTEND.git)
+- **InkFlow**: blogging platform with private images on AWS S3. [Live](https://newblogify.netlify.app/) · [Code](https://github.com/SanjayS1ngh/NewBlogifyFrontend.git)
 - **Product Safety Analyser**: reads ingredient photos using AWS Rekognition. [Live](#) · [Code](#)
 
 ### Tech
@@ -29,4 +29,4 @@ JavaScript · C++ · React · Node.js · Express · MongoDB · SQL · AWS · Git
 ### Currently
 Practicing DSA daily and making my first open-source contributions.
 
-📫 samantsanjay100@gmail.com · [https://www.linkedin.com/in/sanjay-singh-88314b25b/](#) · [https://leetcode.com/u/madmax_xx/](#)
+📫 samantsanjay100@gmail.com · [Linkedin](https://www.linkedin.com/in/sanjay-singh-88314b25b/) · [Github](https://leetcode.com/u/madmax_xx/)
