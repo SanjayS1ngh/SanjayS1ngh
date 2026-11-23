@@ -21,7 +21,7 @@ I'm looking for a software developer role where I can keep learning and shipping
 
 - **ManageX**: CRM dashboard with JWT login and Redis caching. [Live](https://crmfrontendd.netlify.app/) · [Code](https://github.com/SanjayS1ngh/CRMFRONTEND.git)
 - **InkFlow**: blogging platform with private images on AWS S3. [Live](https://newblogify.netlify.app/) · [Code](https://github.com/SanjayS1ngh/NewBlogifyFrontend.git)
-- - **Society Summariser**: turns long WhatsApp group chats into one-page summaries, with every item linked to its original message. [Live](#) · [Code](#)
+-  **Society Summariser**: turns long WhatsApp group chats into one-page summaries, with every item linked to its original message. [Live](#) · [Code](#)
 - **Product Safety Analyser**: reads ingredient photos using AWS Rekognition. [Live](#) · [Code](#)
 
 ### Tech
