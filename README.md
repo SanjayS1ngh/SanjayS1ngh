@@ -48,6 +48,7 @@
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/madmax_x?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode stats" />
+<img src="https://leetcard.jacoblin.cool/madmax_xx?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode stats" />
 
 </div>
 
